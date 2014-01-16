@@ -2,9 +2,9 @@
 -------------------------------------------------------
 queue_array.py
 -------------------------------------------------------
-Author:  David Brown, Lee Glendenning
-ID:      - , 120289190
-Email:   dbrown@wlu.ca, glen9190@wlu.ca
+Author:  Lee Glendenning
+ID:      120289190
+Email:   glen9190@wlu.ca
 Version: 2013-01-15
 -------------------------------------------------------
 """
