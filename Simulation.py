@@ -5,7 +5,7 @@ simulation.py
 Author:  Lee Glendenning
 ID:      120289190
 Email:   glen9190@mylaurier.ca
-Version: 2013-01-24
+Version: 2013-01-15
 -------------------------------------------------------
 """
 class Patron:
